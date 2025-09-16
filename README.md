@@ -35,8 +35,8 @@ Before running the server, ensure you have:
 
 ### 1. Clone and Navigate
 ```bash
-git clone <repository-url>
-cd voting/server
+git clone <https://github.com/prabhat8701/Real-Time-Polling.git>
+cd Real-Time-Polling/server
 ```
 
 ### 2. Install Dependencies

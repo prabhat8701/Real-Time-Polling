@@ -99,7 +99,10 @@ export default function Home() {
                 <BookOpen className="w-4 h-4" />
                 <span>API Docs</span>
               </Link>
-              <button className="flex items-center space-x-2 bg-gray-900 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-colors">
+              <button 
+                className="flex items-center space-x-2 bg-gray-900 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-colors"
+                onClick={() => window.open('https://github.com/prabhat8701/Real-Time-Polling.git', '_blank')}
+              >
                 <Github className="w-4 h-4" />
                 <span>View Code</span>
               </button>

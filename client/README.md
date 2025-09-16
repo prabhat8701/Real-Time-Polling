@@ -30,8 +30,8 @@ A modern Next.js website showcasing the features and capabilities of our TypeScr
 
 ### 1. Clone and Navigate
 ```bash
-git clone <repository-url>
-cd voting/client
+git clone <https://github.com/prabhat8701/Real-Time-Polling.git>
+cd Real-Time-Polling/client
 ```
 
 ### 2. Install Dependencies
@@ -192,26 +192,6 @@ The website uses Tailwind CSS for styling. Customize by:
 - **API Documentation**: Modify content in `app/api-docs/page.tsx`
 - **Demo Functionality**: Customize in `components/DemoSection.tsx`
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Push code to GitHub
-2. Connect repository to Vercel
-3. Deploy automatically
-4. Set environment variables if needed
-
-### Other Platforms
-Deploy to any platform supporting Next.js:
-- **Netlify** - Static site generation
-- **AWS Amplify** - Full-stack deployment
-- **Railway** - Container deployment
-- **Heroku** - Traditional hosting
-
-### Build for Production
-```bash
-npm run build
-npm start
-```
 
 ## 🔧 Configuration
 
